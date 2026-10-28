@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌐 Paracos Global (paracosglobal.com)
 
-<!--
-**paracosofficial-hash/paracosofficial-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Paracos Global** is a specialized global platform and commission marketplace built specifically for the cosplay community — connecting cosplayers, costume makers, prop crafters, wig stylists, makeup artists, and photographers worldwide.
 
-Here are some ideas to get you started:
+🔗 **Official Website:** [https://paracosglobal.com/](https://paracosglobal.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Key Features
+* **Dedicated Cosplay Portfolios:** Showcase costumes, props, wigs, makeup, and photography works in one organized place without fighting general social media algorithms.
+* **Global Commission Marketplace:** Easily open commissions or find trusted creators for custom cosplay orders.
+* **Middleman Escrow Protection:** Secure payment system protecting both buyers and creators during commission transactions.
+* **Unified Character Search:** Discover character cosplays, available commissions, and related items all on a single search results page.
+
+## 🚀 Current Status: Open Beta
+We are currently in Open Beta! Early adopters can sign up via Google, Gmail, X, or Discord to claim the exclusive **Beta Tester** profile tag.
